@@ -1,7 +1,6 @@
 # Libadwaita theme for Blender
 
-Implements a GNOME Libadwaita inspired dark theme for Blender, packaged as an
-official [Blender Extension](https://extensions.blender.org/themes/).
+Implements a GNOME Libadwaita inspired dark theme for Blender.
 
 ![thumbnail](images/thumbnail.png)
 
