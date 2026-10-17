@@ -1,0 +1,14 @@
+# Build artifacts
+*.zip
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editores / SO
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
